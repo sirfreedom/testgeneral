@@ -1,2 +1,2 @@
-# Test QA
-Prueba de conocimientos para alumnos
+# Test QA  
+çSe modificia para que sea test general 
