@@ -1,6 +1,6 @@
 
-const BASEURL = 'https://sircode.somee.com/';
-export const IDAPP = 2;
+const BASEURL = 'https://hockeystore.somee.com/';
+export const IDAPP = 3;
 //const BASEURL = 'https://localhost:5000/';
 
 
